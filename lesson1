@@ -11,7 +11,7 @@ print("hello ai")
 x = "kemal"
 y = "Eren"
 z = "Mete"
-print(x,y ,z)
+print(x ,y ,z)
 
 myname = "Eren"
 print("hello " + myname)
