@@ -1,12 +1,15 @@
+# check your version
+import sys
+from mimetypes import add_type
+
+print(sys.version)
+
 print("hello ai")
 
-# for hashtag press alt + 3
 # run selection
-# first select the code and then shift + alt + e
-
-# if you want to bring back your code press
-# cmd + z
-
+# first select the code and then shift+alt+e
+# if you want to bring back your code press cmd+z
+# for hashtag press alt + 3
 
 #numbers
 3
