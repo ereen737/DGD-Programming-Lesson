@@ -1,15 +1,18 @@
-# check your version
+#check python version
 import sys
-from mimetypes import add_type
+from faulthandler import cancel_dump_traceback_later
 
 print(sys.version)
 
 print("hello ai")
 
-# run selection
-# first select the code and then shift+alt+e
-# if you want to bring back your code press cmd+z
 # for hashtag press alt + 3
+# run selection
+# first select the code and then shift + alt + e
+
+# if you want to bring back your code press
+# cmd + z
+
 
 #numbers
 3
