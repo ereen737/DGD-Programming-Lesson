@@ -1,5 +1,5 @@
 # loop list
-from audioop import reverse
+from audloop import reverse
 
 myList = ["eren", "selin", "luna", "ece"]
 
